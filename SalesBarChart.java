@@ -1,5 +1,3 @@
-package Labs.Week_1.scr;
-
 import java.util.Scanner;
 
 public class SalesBarChart 
@@ -14,7 +12,7 @@ public class SalesBarChart
         Numstores = keyboard.nextInt();
         for(int i = 0 ; i < Numstores; i++)
         {
-            
+
         }
 
 

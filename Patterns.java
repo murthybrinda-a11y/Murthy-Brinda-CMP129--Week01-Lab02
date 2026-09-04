@@ -1,5 +1,4 @@
 import java.util.Scanner;
-package Labs.Week_1.scr;
 
 public class Patterns 
 
@@ -8,7 +7,7 @@ public class Patterns
     {
         int stores ;
         Scanner keyboard = new Scanner(System.in);
-        
+
 
     }
 
